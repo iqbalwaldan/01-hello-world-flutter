@@ -1,16 +1,10 @@
-# hello_world
+# Hello World Flutter
 
-A new Flutter project.
+Nama : Moh. Iqbal Waldan
 
-## Getting Started
+Kelas : MI-2F
 
-This project is a starting point for a Flutter application.
+NIM : 203171039
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7028008&assignment_repo_type=AssignmentRepo)
+![WhatsApp Image 2022-02-17 at 13 08 42](https://user-images.githubusercontent.com/69692712/154416012-3df50f1d-3724-48e8-958b-787d135a58cb.jpeg)
